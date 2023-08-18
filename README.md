@@ -1,14 +1,6 @@
 ### Hi there 👋
 👋 Hey there, I'm Aakash Tiwari!
 
--🔭 I’m currently working on SLAM.
--🌱 I’m currently learning ROS, Python, OpenCv, C++ Adv, MATLAB.
--👯 I’m looking to collaborate on Medex website, Roboweek 21' website, cozmoclenzh RobosocNITH team.
--🤔 I’m looking for help with ROS.
--💬 Ask me about Robotics
--📫 How to reach me: https://www.linkedin.com/in/aakash07122003/
--⚡ Fun fact: Man with no goal.
-
 🚀 About Me
 I'm a passionate 3rd year Mechanical Engineering student at NIT Hamirpur, with a strong flair for robotics, programming, and problem-solving. From tinkering with mechanical designs to diving into the world of software, I love bringing innovation to life.
 
