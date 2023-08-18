@@ -1,5 +1,4 @@
-### Hi there 👋
-👋 Hey there, I'm Aakash Tiwari!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Aakash Tiwari!
 
 🚀 About Me
 I'm a passionate 3rd year Mechanical Engineering student at NIT Hamirpur, with a strong flair for robotics, programming, and problem-solving. From tinkering with mechanical designs to diving into the world of software, I love bringing innovation to life.
